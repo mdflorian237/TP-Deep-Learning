@@ -390,8 +390,8 @@ Conformément aux consignes, le meilleur modèle (Random Forest) a été sauvega
 en utilisant les 10 variables les plus importantes. L'application permet des prédictions
 en temps réel et visualise les performances.
 """, normal))
-story.append(Paragraph("Lien vers le dépôt GitHub (à compléter) : "
-                      "https://github.com/votre-compte/deep-learning-tp", centered))
+story.append(Paragraph("Lien vers le dépôt GitHub :https://github.com/mdflorian237/TP-Deep-Learning.git "
+                      "https://maffouodongmofloriantpdeeplearning1ensy.streamlit.app/", centered))
 story.append(PageBreak())
 
 # --- Conclusion ---
