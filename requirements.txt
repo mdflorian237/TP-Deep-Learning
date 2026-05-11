@@ -1,0 +1,22 @@
+# requirements.txt - Dépendances du projet
+
+# Data manipulation
+pandas==2.3.3
+numpy==2.4.1
+scipy==1.17.0
+
+# Visualization
+matplotlib==3.10.8
+seaborn==0.13.2
+plotly==6.5.2
+
+# Machine Learning
+scikit-learn==1.8.0
+joblib==1.5.3
+
+# Web app
+streamlit==1.53.0
+
+# Utils
+openpyxl==3.1.5
+certifi
